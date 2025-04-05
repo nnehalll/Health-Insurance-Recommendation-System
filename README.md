@@ -20,11 +20,3 @@ This project is a **Streamlit-based web application** that recommends health ins
   - Website Link
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/health-insurance-recommender.git
-cd health-insurance-recommender
